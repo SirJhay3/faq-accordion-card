@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/SirJhay3/faq-accordion-card
+- Live Site URL: https://hungry-swirles-c17970.netlify.app/
 
 ## My process
 
